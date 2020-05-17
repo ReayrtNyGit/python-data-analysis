@@ -76,7 +76,7 @@ Open a new Jupter Notebook session:
 jupyter notebook
 ```
 
-As you can see, you now have the correct kernel as an option to create a new notebook. We can even test out our new kernel by creating a new Jupyter Notebook thne use this command:
+As you can see, you now have the correct kernel as an option to create a new notebook. We can even test out our new kernel by creating a new Jupyter Notebook then use this command:
 ```python
 #show virtual envs inside of conda
 conda env list
