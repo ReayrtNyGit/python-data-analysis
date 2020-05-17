@@ -9,7 +9,7 @@ Treehouse Live with Jonathan Barrios: Python Data Analysis with Jupyter Notebook
 If you're a beginner, welcome to the super exciting field of data sciences, and I  suggest the Python basics from Treehouse's 7-day free trial [here](https://teamtreehouse.com/subscribe/) as a general prerequisite. Let's get started!
 
 # Virtual environments for Data Science
-Before we start jumping into data science, we need to talk about setting up a development environment. You could begin installing each python data science library using pip-- a recursive acronym that can stand for either "Pip Installs Packages" or "Pip Installs Python." Alternatively, pip stands for the "preferred installer program." It's the de facto standard package-management system used to install and manage software packages written in Python. There are many other reasons, such as faster performance, but that is outside the scope of this Livestream. See the chart and attribution link below for more.
+Before we start jumping into data science, we need to talk about setting up a development environment. You could begin installing each python data science library using pip-- a recursive acronym that can stand for either "Pip Installs Packages" or "Pip Installs Python." Alternatively, pip stands for the "preferred installer program." It's the de facto standard package-management system used to install and manage software packages written in Python.
 
 <p align="center">
 <br>
@@ -20,7 +20,7 @@ Before we start jumping into data science, we need to talk about setting up a de
 
 ### So why not use pip and be done with it?
 
-Great question, and here's why: pip does not have data science libraries pre-installed while other package managers, such as Anaconda, do. Another reason is collaboration-- sharing the exact packages and versions can be tedious when you have one environment containing all of your libraries on one machine. Pip does have a virtual environment called `virtualenv,` which has been replaced by `pipenv,` but they also don't contain the data science libraries that Anaconda has pre-installed. If you guessed that we're going to use Anaconda, you're right, and their virtual env is aptly named `conda.` Let's Begin!
+Great question, and here's why: pip does not have data science libraries pre-installed while other package managers, such as Anaconda, do. Another reason is collaboration-- sharing the exact packages and versions can be tedious when you have one environment containing all of your libraries on one machine. There are many other reasons, such as faster performance, but that is outside the scope of this Livestream. See the chart and attribution link above for more. To be fair, pip does have a virtual environment called `virtualenv,` which has been replaced by `pipenv,` but they also don't contain the data science libraries that Anaconda has pre-installed. If you guessed that we're going to use Anaconda, you're right, and we're also going to use Anaconda's virtual env, aptly named `conda.` Let's Begin!
 
 `virtualenv` Vs `pipenv` Vs `anaconda` Vs `pyenv`
 - pip 
