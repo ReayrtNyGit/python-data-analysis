@@ -70,8 +70,15 @@ Next, install `ipykernel` to the conda env, like this:
 python -m ipykernel install --user --name python_data_analysis --display-name "python_data_analysis"
 ```
 
-Let's test out our new kernel by using this command in Jupyter Notebook:
+Open a new Jupter Notebook session:
 ```python
+#open Jupyter Notebook
+jupyter notebook
+```
+
+As you can see, you now have the correct kernel as an option to create a new notebook. We can even test out our new kernel by using this command in Jupyter Notebook:
+```python
+#show virtual envs inside of conda
 conda env list
 ```
 If you get a message like this:
