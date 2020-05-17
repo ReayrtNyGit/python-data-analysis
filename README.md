@@ -14,7 +14,7 @@ Before we start jumping into data science, we need to talk about setting up a de
 <p align="center">
 <br>
 <img align="center" src="img/tensor_data.png")><br><br>
-<em>Image from: https://www.anaconda.com/tensorflow-in-anaconda/</em><br><br>
+<em>Image from: <a>https://www.anaconda.com/tensorflow-in-anaconda/<a href="https://www.anaconda.com/tensorflow-in-anaconda/"></em><br><br>
 </p>
 
 
