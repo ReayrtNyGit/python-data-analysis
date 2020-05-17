@@ -42,7 +42,7 @@ conda create --name python_data_analysis pandas matplotlib seaborn #you could ad
 ```
 then activate it like this:
 ```python
-conda activate pyhton_data_analysis
+conda activate python_data_analysis
 conda deactivate #when you want to power it down
 ```
 and finally, let's see what we have:
@@ -66,7 +66,7 @@ pip install ipykernel
 ```
 
 Next, install `ipykernel` to the conda env, like this:
-```pyhton
+```python
 python -m ipykernel install --user --name python_data_analysis --display-name "python_data_analysis"
 ```
 
