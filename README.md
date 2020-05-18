@@ -6,7 +6,7 @@ Treehouse Live with Jonathan Barrios: Python Data Analysis with Jupyter Notebook
 - Business and data analysts with a basic understanding of Python basics
 - Excell experts, aspiring Data Scientist and Statistician who already use Jupyter Notebooks
 
-If you're a beginner, welcome to the super exciting field of data sciences, and I  suggest the Python basics from Treehouse's 7-day free trial [here](https://teamtreehouse.com/subscribe/) as a general prerequisite. Let's get started!
+If you're a beginner, welcome to the super exciting field of data science! Before getting started with this livestream, I suggest learning Python basics with Treehouse as a general prerequisite. Check out Treehouse's 7-day free trial [here](https://teamtreehouse.com/subscribe/). Let's get started!
 
 # Virtual environments for Data Science
 Before we start jumping into data science, we need to talk about setting up a development environment. You could begin installing each python data science library using pip-- a recursive acronym that can stand for either "Pip Installs Packages" or "Pip Installs Python." Alternatively, pip stands for the "preferred installer program." It's the de facto standard package-management system used to install and manage software packages written in Python.
