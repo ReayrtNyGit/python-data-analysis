@@ -38,7 +38,7 @@ Great question, and here's why: pip does not have data science libraries pre-ins
 ### Prerequisites
 Install Anaconda(graphical) and `cd` into your project directory then set-up the virtual environment:
 ```python
-conda create --name python_data_analysis pandas matplotlib seaborn #you could add django
+conda create --name python_data_analysis notebook pandas matplotlib seaborn #you could add django
 ```
 then activate it like this:
 ```python
