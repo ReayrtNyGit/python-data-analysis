@@ -2,6 +2,11 @@
 
 Treehouse Live with Jonathan Barrios: Python Data Analysis with Jupyter Notebook, Pandas, Numpy, Matplotlib, and Seaborn from the very beginning 🌐 Watch the [archived Livestream](https://join.teamtreehouse.com/treehouse-live/) 🍿
 
+<br>
+
+### Topics Covered
+![IMG](img/python_data.gif)
+
 ### Who is this Livestream for?
 - Business and data analysts with a basic understanding of Python basics
 - Excell experts, aspiring Data Scientist and Statistician who already use Jupyter Notebooks
