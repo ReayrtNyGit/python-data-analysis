@@ -43,19 +43,19 @@ Great question, and here's why: pip does not have data science libraries pre-ins
 ### Prerequisites
 Install Anaconda(graphical) and `cd` into your project directory then set-up the virtual environment:
 ```python
-conda create --name python_data_analysis notebook pandas matplotlib seaborn #you could add django
+conda create --name python_data_analysis notebook pandas matplotlib seaborn # you could add django
 ```
 then activate it like this:
 ```python
 conda activate python_data_analysis
-conda deactivate #when you want to power it down
+conda deactivate # when you want to power it down
 ```
 and finally, let's see what we have:
 ```python
-conda env list #list all venvs
+conda env list # list all venvs
 conda env export > environment.yml #share this env
 # then
-conda env create -f environment.yml #spawn this env
+conda env create -f environment.yml # spawn this env
 ```
 # Jupyter Notebook Kernel
 Before we can start using our virtual env, it's important to note that our new conda virtual environment is not using the same kernel. **Dilemma:** If you open Jupyter Notebook, you won't see our new env kernel as an option to create a new notebook. 😿
@@ -77,19 +77,19 @@ python -m ipykernel install --user --name python_data_analysis --display-name "p
 
 Open a new Jupter Notebook session:
 ```python
-#open Jupyter Notebook
+# open Jupyter Notebook
 jupyter notebook
 ```
 
 As you can see, you now have the correct kernel as an option to create a new notebook. We can even test out our new kernel by creating a new Jupyter Notebook then use this command:
 ```python
-#show virtual envs inside of conda
+# show virtual envs inside of conda
 conda env list
 ```
 If you get a message like this:
 ```python
 # conda environments:
-#
+
 base                     /Users/username/opt/anaconda3
 python_data_analysis  *  /Users/username/opt/anaconda3/envs/python_data_analysis
 
