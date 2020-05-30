@@ -4,6 +4,13 @@ Treehouse Live with Jonathan Barrios: Python Data Analysis with Jupyter Notebook
 
 <br>
 
+## 🐍 PART I | YouTube Livestream 5.22.2020
+
+[![](https://github.com/jonathan-barrios/python-data-analysis/blob/master/img/livestream_part_I_splash.jpg?raw=true)](https://www.youtube.com/watch?v=1bfXUwcs-OU)
+
+## 🐍 PART II | YouTube Livestream 5.29.2020
+[![](https://github.com/jonathan-barrios/python-data-analysis/blob/master/img/livestream_part_I_splash.jpg?raw=true)](https://www.youtube.com/watch?v=QDxZy-docoU)
+
 ### Topics Covered
 ![IMG](img/python_data.gif)
 
